@@ -23,8 +23,8 @@
         <circle r="45" cx="125" cy="125" fill="white"></circle>
     </svg>
 </body>
-
-[Example Code of Favorite Semester Project](PROJECTS.md)  
+  
 [About Me](README.md)  
 [Places Traveled](TRAVELIST.md)  
-[List of Favorite Things](FAVORITES.md) 
+[List of Favorite Things](FAVORITES.md)  
+[Future Goals](GOALS.md)
