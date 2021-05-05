@@ -1,4 +1,4 @@
-## Favorite Project --change to html--
+## Favorite Project
  
  In Introduction to Information Technology, we have worked on many different projects. My favorite one to work on was the scalable vector graphics. While I can only create simple shapes, I still enjoyed watching my image come alive on screen. Below is a simple example of the code I would use to create a new SVG.
  
