@@ -8,4 +8,5 @@ I'm a huge travel enthusiast thanks to my father, a pilot. I will travel any cha
 
 [Places Traveled](TRAVELIST.md)  
 [List of Favorite Things](FAVORITES.md)  
-[Future Goals](GOALS.md)
+[Future Goals](GOALS.md)  
+[Example Code of Favorite Semester Project](PROJECTS.md)
