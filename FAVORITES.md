@@ -17,5 +17,5 @@
     
 [Future Goals](GOALS.md)  
 [Example Code of Favorite Semester Project](PROJECTS.md)  
-
+[About Me](README.md)  
 [Places Traveled](TRAVELIST.md)
