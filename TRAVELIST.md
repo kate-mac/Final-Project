@@ -25,6 +25,7 @@
  23. Mexico
  24. Bahamas
 
+### Links to More
 [List of Favorite Things](FAVORITES.md)  
 [Future Goals](GOALS.md)  
 [Example Code of Favorite Semester Project](PROJECTS.md)  
