@@ -14,7 +14,8 @@
  * Orange
 * Favorite Sport:
  * Baseball
-    
+
+### Links to More
 [Future Goals](GOALS.md)  
 [Example Code of Favorite Semester Project](PROJECTS.md)  
 [About Me](README.md)  
