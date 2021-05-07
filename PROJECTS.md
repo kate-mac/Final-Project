@@ -7,7 +7,7 @@
 <head>
 <title>Scalable Vector Graphics</title>
     <svg width="250" height="250">
-    
+   
         <rect rx="15" ry="15" x="25" y="25" height="200" width="200" fill="pink">
         </rect>
         <circle r="85" cx="125" cy="125" fill="lightyellow">
@@ -26,6 +26,7 @@
         </rect>
         <rect rx="15" ry="15" x="205" y="205" height="15" width="15" fill="white">
         </rect>
+       
     </svg>
 
 ### Links to More
